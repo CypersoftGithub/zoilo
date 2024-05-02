@@ -5023,6 +5023,7 @@ section {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  height: 135px;
 }
 .iconbox-style1 .icon {
   color: #1F4B3F;
@@ -8241,6 +8242,7 @@ header.nav-homepage-style.at-home18.stricky.stricky-fixed .home18-sign-btn {
 
 .mm-navbar__title {
   color: var(--headings-color);
+  background-image: url(/images/Zoilo.svg);
 }
 
 .mm-wrapper__blocker {
