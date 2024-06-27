@@ -1,1 +1,11 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zoilo",
+      "sha256_cert_fingerprints":
+        ["43:CD:D8:0C:74:8F:27:D1:E2:A7:8A:14:4C:81:78:CD:8C:C0:95:7D:21:DF:8D:4E:1E:45:5C:2F:16:53:D7:02"]
+    }
+  }
+]
